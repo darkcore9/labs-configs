@@ -22,7 +22,7 @@ zipkin:
 
 logging:
   level:
-    ROOT: INFO
+    ROOT: DEBUG
 
 eureka:
   client:
